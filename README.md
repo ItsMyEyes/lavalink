@@ -4,7 +4,7 @@
 <br />
 <p align="center">
 
-  <h3 align="center">Alon ITEXPO UNJ 2020</h3>
+  <h3 align="center">Lavalink Docker</h3>
 
   <p align="center">
     Joonie is  a powerful music Bot
